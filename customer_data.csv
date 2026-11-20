@@ -1,0 +1,301 @@
+Age,Salary,Experience,City,Gender,Education,Purchased
+56.0,54790.0,15.0,Dhaka,Male,PhD,1
+46.0,20600.0,,Rajshahi,Male,Bachelor,0
+32.0,109660.0,4.0,Rajshahi,Female,Bachelor,1
+25.0,108179.0,2.0,Khulna,Male,High School,1
+38.0,55764.0,11.0,Sylhet,Male,,0
+,,24.0,,Male,,0
+36.0,60714.0,19.0,Sylhet,Female,Bachelor,1
+40.0,71835.0,,Dhaka,Male,PhD,1
+28.0,117946.0,,Khulna,,Master,1
+28.0,88744.0,3.0,,Male,PhD,0
+41.0,71491.0,20.0,Rajshahi,Female,Master,1
+53.0,33589.0,22.0,Sylhet,Female,Master,0
+57.0,58484.0,15.0,Rajshahi,Male,PhD,0
+,97989.0,24.0,Sylhet,,Master,1
+20.0,51212.0,6.0,Rajshahi,Male,,0
+,,12.0,Chittagong,,Bachelor,0
+,62202.0,20.0,Chittagong,Male,Master,1
+41.0,,9.0,,Male,High School,0
+47.0,78208.0,25.0,Chittagong,Female,Master,1
+,48828.0,6.0,Dhaka,,,0
+19.0,33711.0,13.0,Chittagong,Male,High School,0
+38.0,,25.0,Khulna,Female,Bachelor,0
+50.0,,4.0,Khulna,Male,Bachelor,1
+29.0,15301.0,2.0,,Male,High School,0
+39.0,60236.0,,Chittagong,,High School,0
+42.0,81235.0,28.0,Chittagong,Female,,1
+44.0,,,Chittagong,Male,PhD,0
+,80726.0,,Rajshahi,Male,High School,1
+,25492.0,17.0,,Female,,1
+,116279.0,14.0,Rajshahi,Female,High School,1
+,21102.0,11.0,,Male,High School,0
+20.0,65336.0,8.0,Chittagong,Female,Master,1
+54.0,100314.0,9.0,Chittagong,,PhD,0
+24.0,41641.0,,Rajshahi,Male,Bachelor,1
+38.0,49584.0,11.0,Rajshahi,Male,High School,0
+26.0,,16.0,Sylhet,Male,Master,1
+56.0,,28.0,Khulna,Male,Master,0
+35.0,81105.0,5.0,Sylhet,Female,Master,0
+21.0,,6.0,Rajshahi,Female,Bachelor,1
+,115199.0,,Rajshahi,Female,,0
+31.0,66885.0,12.0,Dhaka,Female,PhD,1
+26.0,51631.0,7.0,Rajshahi,Male,PhD,0
+43.0,87991.0,,,Male,,1
+19.0,19014.0,8.0,Khulna,Male,Bachelor,0
+37.0,26093.0,17.0,Sylhet,Male,Bachelor,1
+45.0,,26.0,Sylhet,Female,Bachelor,0
+24.0,50777.0,25.0,Dhaka,Male,PhD,0
+25.0,71958.0,1.0,Sylhet,Male,Master,1
+52.0,97074.0,4.0,Rajshahi,Female,High School,1
+31.0,,28.0,Chittagong,Female,PhD,1
+34.0,114713.0,4.0,Dhaka,Female,Master,1
+53.0,60017.0,5.0,Sylhet,,Master,0
+57.0,81320.0,,Dhaka,Male,High School,1
+21.0,42751.0,7.0,,Male,High School,0
+19.0,93069.0,15.0,Chittagong,Female,High School,1
+23.0,69748.0,12.0,,Male,Bachelor,0
+59.0,20801.0,0.0,Dhaka,Male,High School,0
+21.0,34190.0,21.0,Sylhet,,,1
+,64689.0,,Khulna,Female,High School,1
+35.0,119290.0,16.0,Dhaka,,Master,1
+43.0,65993.0,6.0,Dhaka,,PhD,0
+51.0,44592.0,24.0,Chittagong,Male,,1
+27.0,25647.0,12.0,Rajshahi,Male,PhD,1
+53.0,23716.0,3.0,Khulna,Male,PhD,0
+31.0,103891.0,3.0,,Female,Master,0
+,102545.0,5.0,Khulna,,PhD,1
+,104912.0,,Sylhet,Female,Master,1
+25.0,85316.0,18.0,Rajshahi,Female,High School,0
+31.0,17368.0,28.0,Sylhet,Female,High School,1
+40.0,,11.0,,,Master,0
+57.0,21655.0,21.0,Chittagong,Male,High School,0
+38.0,85031.0,6.0,Chittagong,Male,Bachelor,1
+33.0,91429.0,26.0,Chittagong,Male,PhD,1
+35.0,106083.0,9.0,Khulna,Female,Bachelor,1
+41.0,102922.0,25.0,Rajshahi,Female,PhD,0
+43.0,,18.0,Sylhet,Female,,0
+42.0,28403.0,,Sylhet,Male,Bachelor,0
+58.0,47097.0,29.0,Chittagong,,High School,1
+,93657.0,,Chittagong,Male,PhD,0
+32.0,25966.0,12.0,Dhaka,,Master,0
+18.0,,12.0,Rajshahi,Male,Master,1
+42.0,108848.0,17.0,Khulna,Male,Bachelor,1
+24.0,67921.0,27.0,Sylhet,Female,High School,0
+26.0,64726.0,29.0,Dhaka,Female,High School,1
+41.0,65300.0,,Dhaka,Female,,0
+18.0,37677.0,19.0,Sylhet,Female,Master,1
+25.0,70609.0,27.0,Khulna,Male,PhD,1
+41.0,111825.0,7.0,Dhaka,Female,Bachelor,1
+28.0,71661.0,28.0,Dhaka,Female,PhD,1
+34.0,46024.0,8.0,,Female,Master,0
+25.0,85313.0,6.0,Khulna,Male,,1
+52.0,68006.0,,Dhaka,Male,Master,0
+52.0,110285.0,2.0,,Female,Bachelor,1
+50.0,,12.0,Sylhet,Male,High School,0
+22.0,83027.0,27.0,Chittagong,Female,,1
+59.0,107772.0,29.0,Dhaka,,Bachelor,0
+,95135.0,24.0,Rajshahi,,,0
+58.0,34508.0,27.0,Sylhet,Male,Bachelor,1
+45.0,18051.0,16.0,Khulna,Male,Master,1
+,63747.0,24.0,Sylhet,Female,High School,0
+,102142.0,23.0,Dhaka,Female,Master,0
+25.0,102235.0,,Khulna,,High School,1
+29.0,69021.0,5.0,,Male,Master,0
+51.0,81412.0,20.0,Sylhet,Female,PhD,0
+50.0,73335.0,,,Female,PhD,0
+40.0,71179.0,25.0,Rajshahi,Female,Bachelor,0
+41.0,,11.0,Khulna,Male,Master,0
+54.0,84678.0,12.0,Sylhet,Male,Master,1
+52.0,,12.0,Sylhet,Male,,1
+57.0,54734.0,28.0,Chittagong,Female,Bachelor,1
+39.0,87615.0,14.0,,Female,Master,0
+44.0,88523.0,20.0,Rajshahi,,Bachelor,0
+,109476.0,15.0,Rajshahi,Male,PhD,1
+18.0,117769.0,21.0,Dhaka,Male,Master,1
+52.0,32019.0,20.0,Dhaka,,Master,0
+54.0,98613.0,10.0,Rajshahi,Male,,1
+31.0,106794.0,27.0,Rajshahi,Male,Master,1
+20.0,101672.0,4.0,Khulna,Male,Bachelor,1
+18.0,88847.0,3.0,Chittagong,Male,Master,1
+22.0,97750.0,2.0,Dhaka,Female,High School,1
+43.0,94634.0,18.0,Chittagong,Male,Bachelor,1
+,,19.0,Chittagong,Male,Master,1
+56.0,118481.0,24.0,,Male,PhD,1
+44.0,40945.0,17.0,Khulna,Male,Master,0
+26.0,105852.0,14.0,Sylhet,Female,,1
+32.0,47217.0,8.0,Khulna,Female,PhD,0
+32.0,23308.0,16.0,Khulna,Male,High School,0
+,20949.0,13.0,Chittagong,Male,Bachelor,0
+59.0,66990.0,14.0,Khulna,Male,Master,0
+30.0,16150.0,0.0,Dhaka,,,0
+49.0,104480.0,,Chittagong,Male,Master,1
+56.0,115235.0,21.0,,Male,,1
+49.0,89740.0,21.0,Sylhet,,Bachelor,1
+21.0,81617.0,,Chittagong,Male,Master,0
+47.0,109841.0,15.0,,Female,Master,1
+54.0,31896.0,22.0,Chittagong,Female,PhD,0
+40.0,61175.0,24.0,Rajshahi,Male,Master,1
+56.0,22805.0,10.0,Khulna,,Master,0
+32.0,20237.0,,Rajshahi,Female,PhD,0
+,35056.0,9.0,Sylhet,Female,High School,0
+53.0,60543.0,15.0,Khulna,Female,PhD,0
+30.0,71556.0,,Chittagong,Female,High School,1
+49.0,18343.0,5.0,Khulna,Female,Bachelor,0
+24.0,28500.0,11.0,Dhaka,Male,High School,1
+39.0,68222.0,23.0,Khulna,Female,High School,1
+45.0,44375.0,27.0,,Female,,0
+19.0,24662.0,20.0,Khulna,Female,High School,0
+59.0,31964.0,7.0,Dhaka,Male,PhD,0
+23.0,74638.0,25.0,Sylhet,Female,,1
+45.0,,27.0,Rajshahi,,Bachelor,1
+45.0,100067.0,3.0,,Female,,0
+37.0,82215.0,25.0,Khulna,Male,Bachelor,0
+47.0,84042.0,7.0,Rajshahi,Male,Bachelor,0
+28.0,28284.0,25.0,Chittagong,Female,Master,0
+,87789.0,27.0,,Female,Master,1
+42.0,99664.0,17.0,Dhaka,Male,Bachelor,1
+56.0,108468.0,27.0,,Female,,1
+50.0,76389.0,27.0,Sylhet,Male,Bachelor,1
+18.0,24435.0,4.0,Rajshahi,Male,Master,1
+44.0,69340.0,,Sylhet,,Master,0
+30.0,59078.0,3.0,Khulna,Male,,1
+58.0,93832.0,26.0,Sylhet,,High School,1
+20.0,66293.0,21.0,Rajshahi,Female,Bachelor,0
+56.0,110981.0,16.0,Sylhet,Male,PhD,0
+,93781.0,8.0,,Male,,1
+25.0,75403.0,0.0,Dhaka,Female,Master,0
+44.0,,20.0,Rajshahi,Male,Master,0
+,110435.0,19.0,Dhaka,Female,Master,1
+54.0,58919.0,12.0,Dhaka,Female,Bachelor,0
+50.0,50247.0,27.0,Dhaka,,,1
+59.0,109758.0,15.0,Chittagong,Male,High School,1
+41.0,106747.0,28.0,Chittagong,Male,Bachelor,0
+32.0,77752.0,12.0,Dhaka,Male,High School,1
+49.0,,13.0,Rajshahi,Female,High School,0
+49.0,,,Khulna,Male,Bachelor,0
+41.0,117756.0,28.0,Khulna,Female,High School,1
+58.0,,5.0,Sylhet,Male,,0
+29.0,119185.0,,Rajshahi,,High School,0
+56.0,38049.0,18.0,Chittagong,Male,PhD,1
+,94605.0,,Dhaka,Male,,0
+20.0,113116.0,14.0,Sylhet,Male,PhD,1
+54.0,112379.0,24.0,Khulna,Female,Master,1
+,83385.0,1.0,Chittagong,Female,High School,0
+19.0,,9.0,Chittagong,Male,Bachelor,1
+19.0,80417.0,,,,Bachelor,0
+45.0,38289.0,29.0,Khulna,Female,High School,0
+40.0,115793.0,17.0,,Female,,1
+,24823.0,26.0,Chittagong,,Master,0
+,75160.0,12.0,,Male,PhD,0
+50.0,56975.0,,,Female,,0
+,24540.0,22.0,Khulna,Male,High School,0
+36.0,,23.0,Chittagong,Female,Bachelor,0
+19.0,19611.0,0.0,,Male,High School,0
+43.0,42663.0,21.0,Rajshahi,Female,Master,0
+49.0,66991.0,0.0,Rajshahi,Female,High School,0
+23.0,72679.0,17.0,Chittagong,Female,Bachelor,1
+,119182.0,14.0,Chittagong,Female,PhD,1
+21.0,,16.0,Sylhet,Female,Bachelor,0
+28.0,,10.0,Khulna,Male,Bachelor,1
+34.0,64115.0,20.0,Dhaka,,PhD,0
+55.0,,25.0,Rajshahi,Female,Bachelor,1
+41.0,103223.0,24.0,Sylhet,Female,Bachelor,1
+22.0,75890.0,21.0,Dhaka,Male,,1
+51.0,,26.0,,,High School,1
+23.0,33071.0,26.0,,Male,PhD,0
+39.0,74275.0,16.0,Rajshahi,Female,High School,0
+28.0,87369.0,,Dhaka,Female,,0
+33.0,26938.0,0.0,,Male,Bachelor,0
+50.0,50195.0,1.0,Dhaka,,Master,1
+26.0,106680.0,8.0,Dhaka,Male,,1
+23.0,19000.0,2.0,Dhaka,Male,,1
+33.0,85588.0,0.0,Sylhet,Female,High School,0
+46.0,116042.0,20.0,Rajshahi,Male,High School,1
+,,15.0,Chittagong,Female,PhD,1
+37.0,,22.0,Chittagong,Female,PhD,1
+53.0,112856.0,5.0,Chittagong,Male,,1
+36.0,,27.0,,,Master,1
+43.0,84449.0,,Sylhet,Male,Bachelor,1
+20.0,97986.0,4.0,Khulna,Male,High School,1
+36.0,,,Rajshahi,Female,,1
+37.0,35764.0,5.0,Dhaka,Female,,0
+49.0,101027.0,2.0,Khulna,Male,Master,1
+24.0,53494.0,20.0,Chittagong,,PhD,0
+58.0,18373.0,22.0,Khulna,Female,Bachelor,0
+50.0,,4.0,Rajshahi,Female,,0
+57.0,112532.0,20.0,Dhaka,Female,PhD,1
+56.0,107658.0,4.0,Dhaka,Male,Master,0
+35.0,115386.0,9.0,Rajshahi,,Bachelor,0
+,42350.0,9.0,Rajshahi,,PhD,0
+,108008.0,,Chittagong,Male,Master,1
+28.0,109297.0,16.0,Dhaka,Male,Bachelor,1
+45.0,40351.0,20.0,Khulna,Male,High School,0
+42.0,,13.0,Sylhet,Female,Bachelor,1
+40.0,30305.0,8.0,Sylhet,Female,High School,0
+48.0,90353.0,13.0,Rajshahi,Female,,0
+47.0,91797.0,0.0,Chittagong,Male,PhD,0
+59.0,80953.0,18.0,Sylhet,Female,PhD,0
+52.0,,12.0,Dhaka,Female,Master,0
+24.0,35358.0,12.0,Rajshahi,,PhD,0
+33.0,18267.0,,,Female,PhD,0
+43.0,97745.0,,,Female,High School,1
+19.0,104588.0,0.0,,Male,Master,1
+,53513.0,16.0,Rajshahi,Male,Bachelor,1
+29.0,41092.0,,Rajshahi,,High School,0
+22.0,26338.0,,Rajshahi,Female,Master,0
+54.0,15412.0,27.0,Khulna,Female,High School,0
+,,,Khulna,Female,Bachelor,0
+26.0,48496.0,6.0,Rajshahi,Male,Bachelor,0
+58.0,75692.0,25.0,Sylhet,Male,Master,0
+52.0,104084.0,25.0,Chittagong,Female,Bachelor,1
+36.0,107920.0,,Chittagong,Female,High School,1
+33.0,59425.0,,,Male,Bachelor,1
+20.0,53756.0,21.0,Khulna,,High School,1
+37.0,,2.0,Khulna,Male,High School,0
+,50735.0,26.0,Sylhet,Male,Bachelor,1
+50.0,62295.0,17.0,Chittagong,Female,Master,1
+41.0,98042.0,11.0,Chittagong,,PhD,1
+28.0,100999.0,0.0,,Female,Bachelor,0
+25.0,32955.0,21.0,Khulna,,High School,0
+53.0,52841.0,11.0,Chittagong,Female,High School,1
+,85640.0,4.0,,Male,Bachelor,0
+57.0,80510.0,,Sylhet,Male,Master,1
+37.0,49911.0,29.0,Chittagong,Male,Master,1
+52.0,74031.0,26.0,Khulna,Male,High School,0
+42.0,103726.0,24.0,Sylhet,Female,High School,1
+,22357.0,16.0,Rajshahi,Male,Master,0
+42.0,47479.0,15.0,Sylhet,Male,PhD,0
+46.0,76476.0,14.0,Dhaka,Female,Bachelor,1
+,59811.0,22.0,Dhaka,Male,High School,1
+35.0,51208.0,14.0,Khulna,Female,High School,1
+19.0,35150.0,,Chittagong,Female,,0
+52.0,86180.0,20.0,Khulna,,Bachelor,1
+33.0,,13.0,Khulna,Female,Master,1
+58.0,,,Khulna,Female,Bachelor,0
+53.0,36352.0,,,Female,,0
+50.0,,18.0,Rajshahi,Female,Bachelor,1
+,29397.0,6.0,Rajshahi,Female,High School,0
+,56555.0,,Sylhet,Male,,0
+31.0,61959.0,27.0,Dhaka,Male,Master,0
+,,1.0,,Male,PhD,0
+,65517.0,5.0,Sylhet,Male,Master,0
+25.0,,17.0,Dhaka,Female,Bachelor,1
+24.0,54954.0,1.0,Chittagong,Male,High School,0
+20.0,62280.0,17.0,Rajshahi,Female,PhD,1
+34.0,94459.0,29.0,Dhaka,,High School,1
+50.0,31779.0,14.0,Chittagong,Male,Master,0
+29.0,78932.0,26.0,Dhaka,,High School,1
+39.0,87936.0,18.0,,Female,High School,1
+39.0,39466.0,1.0,Rajshahi,Male,PhD,0
+47.0,51939.0,19.0,,Female,Bachelor,0
+55.0,84896.0,24.0,Khulna,Female,High School,1
+55.0,50270.0,5.0,Dhaka,Male,Bachelor,1
+25.0,74163.0,0.0,Dhaka,Male,,0
+44.0,,23.0,Chittagong,Male,High School,1
+,66934.0,14.0,Rajshahi,Female,PhD,1
+,79895.0,27.0,,Male,Master,1
+38.0,47307.0,29.0,Rajshahi,,Master,0
+47.0,,22.0,,Female,PhD,1
+50.0,75921.0,,Sylhet,Male,,1
+45.0,20486.0,18.0,Khulna,Male,High School,1
